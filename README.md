@@ -1,4 +1,4 @@
 # demo
 This is a demo repository.
 <br>
-Author - Anjali Sharma <student>
+Author - Anjali Sharma (student)
